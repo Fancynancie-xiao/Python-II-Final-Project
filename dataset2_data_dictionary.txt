@@ -1,0 +1,529 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, 2022, Survey Data File
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page iSurvey Data File
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      CASEID             ICPSR Case Identification Number                    1
+      PURETOT            Retirement status (Last month you were reported     1
+      PUDIS              Disability status (Last month you were reported     1
+      PUDIS1             Does your disability prevent you from accepting     1
+      PUABSOT            Last week did you have a job either full or part    2
+      PRHRUSL            Usual hours worked weekly                           2
+      PRWKSTAT           Full/Part-time work status                          3
+      PENLFRET           Are you retired from a job or business?             3
+      PESCHFT            Are you enrolled in school as a full-time or par    3
+      PRCHLD             Presence of own children <18 years of age by sel    4
+      PRNMCHLD           Number of own children <18 years of age             4
+      PEHGCOMP           What was the highest grade of regular school ...    5
+      PECYC              How many years of college credit has...completed    5
+      PEIO1ICD           Industry code for primary job                       5
+      PRIMIND1           Intermediate industry recode (job 1)                6
+      PRIMIND2           Intermediate industry recode (job 2)                7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 1Survey Data File
+
+
+      CASEID             ICPSR Case Identification Number
+
+           Data type: numeric
+           Record/columns: 1/1-6
+
+      ________________________________________________________________________
+
+      PURETOT            Retirement status (Last month you were reported to be retired, are you still retired this month?)
+
+           VALUE  LABEL
+              -1  Blank
+               1  Yes
+               2  No
+               3  Was not retired last month
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/8-9
+
+      ________________________________________________________________________
+
+      PUDIS              Disability status (Last month you were reported to have a disability.) Does your disability continue to prevent you from doing any kind of work for the next 6 months?
+
+           VALUE  LABEL
+              -3  Refused
+              -2  Don't know
+              -1  Blank
+               1  Yes
+               2  No
+               3  Did not have disability last month
+
+           Data type: numeric
+           Missing-data codes: -3,-2,-1
+           Record/columns: 1/11-12
+
+      ________________________________________________________________________
+
+      PUDIS1             Does your disability prevent you from accepting any kind of work during the next six months?
+
+           VALUE  LABEL
+              -3  Refused
+              -2  Don't know
+              -1  Blank
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: -3,-2,-1
+           Record/columns: 1/14-15
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 2Survey Data File
+
+
+      PUABSOT            Last week did you have a job either full or part-time?
+
+           VALUE  LABEL
+              -3  Refused
+              -2  Don't know
+              -1  Blank
+               1  Yes
+               2  No
+               3  Retired
+               4  Disabled
+               5  Unable to work
+
+           Data type: numeric
+           Missing-data codes: -3,-2,-1
+           Record/columns: 1/17-18
+
+      ________________________________________________________________________
+
+      PRHRUSL            Usual hours worked weekly
+
+           VALUE  LABEL
+              -1  Blank
+               1  0-20 hrs
+               2  21-34 hrs
+               3  35-39 hrs
+               4  40 hrs
+               5  41-49 hrs
+               6  50 or more hrs
+               7  Varies-full time
+               8  Varies-part time
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/20-21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 3Survey Data File
+
+
+      PRWKSTAT           Full/Part-time work status
+
+           VALUE  LABEL
+              -1  Blank
+               1  Not in labor force
+               2  FT hours (35+), usually FT
+               3  PT for economic reasons, usually FT
+               4  PT for non-economic reasons, usually FT
+               5  Not at work, usually FT
+               6  PT hrs, usually PT for economic reasons
+               7  PT hrs, usually PT for non-economic reasons
+               8  FT hours, usually PT for economic reasons
+               9  FT hours, usually PT for non-economic
+              10  Not at work, usually part-time
+              11  Unemployed FT
+              12  Unemployed PT
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/23-24
+
+      ________________________________________________________________________
+
+      PENLFRET           Are you retired from a job or business?
+
+           VALUE  LABEL
+              -1  Blank
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/26-27
+
+      ________________________________________________________________________
+
+      PESCHFT            Are you enrolled in school as a full-time or part-time student?
+
+           VALUE  LABEL
+              -1  Blank
+               1  Full-time
+               2  Part-time
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/29-30
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 4Survey Data File
+
+
+      PRCHLD             Presence of own children <18 years of age by selected age group
+
+           VALUE  LABEL
+              -1  NIU (Not a parent)
+               0  No own children under 18 years of age
+               1  All own children  0- 2 years of age
+               2  All own children  3- 5 years of age
+               3  All own children  6-13 years of age
+               4  All own children 14-17 years of age
+               5  Own children  0- 2 and  3- 5 years of age (none  6-17)
+               6  Own children  0- 2 and  6-13 years of age (none  3- 5 or 14-17)
+               7  Own children  0- 2 and 14-17 years of age (none  3-13)
+               8  Own children  3- 5 and  6-13 years of age (none  0- 2 or 14-17)
+               9  Own children  3- 5 and 14-17 years of age (none  0- 2 or  6-13)
+              10  Own children  6-13 and 14-17 years of age (none  0- 5)
+              11  Own children  0- 2,  3- 5, and  6-13 years of age (none 14-17)
+              12  Own children  0- 2,  3- 5, and 14-17 years of age (none 6-13)
+              13  Own children  0- 2,  6-13, and 14-17 years of age (none 3- 5)
+              14  Own children  3- 5,  6-13, and 14-17 years of age (none  0- 2)
+              15  Own children  from all age groups
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/32-33
+
+      ________________________________________________________________________
+
+      PRNMCHLD           Number of own children <18 years of age
+
+           VALUE  LABEL
+              -1  NIU (Not a parent)
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/35-36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 5Survey Data File
+
+
+      PEHGCOMP           What was the highest grade of regular school ... completed before receiving ...'s GED?
+
+           VALUE  LABEL
+              -1  Blank
+               1  Less than 1st grade
+               2  1st, 2nd, 3rd, or 4th grade
+               3  5th or 6th grade
+               4  7th or 8th grade
+               5  9th grade
+               6  10th grade
+               7  11th grade
+               8  12th grade (no diploma)
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/38-39
+
+      ________________________________________________________________________
+
+      PECYC              How many years of college credit has...completed?
+
+           VALUE  LABEL
+              -1  Blank
+               1  Less than 1 year (includes 0 years completed)
+               2  The first or Freshman year
+               3  The second or Sophomore year
+               4  The third or Junior year
+               5  Four or more years
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/41-42
+
+      ________________________________________________________________________
+
+      PEIO1ICD           Industry code for primary job
+
+           VALUE  LABEL
+              -1  Blank
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/44-47
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 6Survey Data File
+
+
+      PRIMIND1           Intermediate industry recode (job 1)
+
+           VALUE  LABEL
+              -1  Blank
+               1  Agriculture, forestry, fishing, and hunting
+               2  Mining
+               3  Construction
+               4  Manufacturing - durable goods
+               5  Manufacturing - non-durable goods
+               6  Wholesale trade
+               7  Retail trade
+               8  Transportation and warehousing
+               9  Utilities
+              10  Information
+              11  Finance and insurance
+              12  Real estate and rental and leasing
+              13  Professional and technical services
+              14  Management, administrative and waste management services
+              15  Educational services
+              16  Health care and social services
+              17  Arts, entertainment, and recreation
+              18  Accommodation and food services
+              19  Private households
+              20  Other services, except private households
+              21  Public administration
+              22  Armed Forces
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/49-50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 7Survey Data File
+
+
+      PRIMIND2           Intermediate industry recode (job 2)
+
+           VALUE  LABEL
+              -1  Blank
+               1  Agriculture, forestry, fishing, and hunting
+               2  Mining
+               3  Construction
+               4  Manufacturing - durable goods
+               5  Manufacturing - non-durable goods
+               6  Wholesale trade
+               7  Retail trade
+               8  Transportation and warehousing
+               9  Utilities
+              10  Information
+              11  Finance and insurance
+              12  Real estate and rental and leasing
+              13  Professional and technical services
+              14  Management, administrative and waste management services
+              15  Educational services
+              16  Health care and social services
+              17  Arts, entertainment, and recreation
+              18  Accommodation and food services
+              19  Private households
+              20  Other services, except private households
+              21  Public administration
+              22  Armed Forces
+
+           Data type: numeric
+           Missing-data code: -1
+           Record/columns: 1/52-53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025

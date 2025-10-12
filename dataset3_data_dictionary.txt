@@ -1,0 +1,653 @@
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      CODEBOOK
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, 2022, Survey Data File
+                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page iSurvey Data File
+
+
+                                      CONTENTS
+
+
+      item                                                                page
+
+      CASEID             ICPSR Case Identification Number                    1
+      PEC1Q10A           Visited art museum or gallery last 12 months        1
+      PEC1Q11A           Visited a crafts fair or visual arts festival la    1
+      PEC1Q12A           Visited an outdoor festival that featured perfor    2
+      PEC1Q14A           Read any books during the last 12 months            2
+      PEC2Q1A            Attended a live music, theater, or dance perform    2
+      PEC2Q1B            Attended a live book reading or a poetry or stor    3
+      PEMAQ1G            In the last 12 months used a device to watch or     3
+      PEMAQ1H            In the last 12 months used a device to watch or     3
+      PEMAQ1I            In the last 12 months used a device to watch or     4
+      PEMBQ1A            Last 12 months, worked with pottery, ceramics, o    4
+      PEMBQ1B            Last 12 months, did any leatherwork, metalwork,     4
+      PEMBQ1C            Last 12 months, did any weaving, crocheting, qui    5
+      PEMBQ1D            Last 12 months, sang, either by yourself, in a s    5
+      PEMBQ2D            Last 12 months, performed or practiced singing f    5
+      PEMBQ1E            Last 12 months, played a musical instrument         6
+      PEMBQ2E            Last 12 months, played a musical instrument with    6
+      PEMBQ1F            Last 12 months, did any acting                      6
+      PEMBQ1G            Last 12 months, danced socially, including danci    7
+      PEMBQ1H            Last 12 months, performed or practiced any dance    7
+      PEMBQ1I            Last 12 months, created any films or videos as a    7
+      PEMBQ1J            Last 12 months, taken any photographs as an arti    8
+      PEMBQ1K            Last 12 months, created any other visual art, su    8
+      PEMBQ1L            Last 12 months, wrote creatively, such as fictio    8
+      PEMBQ1M            Last 12 months, designed, coded, or created any     9
+      PEMBQ1N            Last 12 months, created any performance or work     9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 1Survey Data File
+
+
+      CASEID             ICPSR Case Identification Number
+
+           Data type: numeric
+           Record/columns: 1/1-6
+
+      ________________________________________________________________________
+
+      PEC1Q10A           Visited art museum or gallery last 12 months
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/8-9
+
+      ________________________________________________________________________
+
+      PEC1Q11A           Visited a crafts fair or visual arts festival last 12 months
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/11-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 2Survey Data File
+
+
+      PEC1Q12A           Visited an outdoor festival that featured performing artists last 12 months
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/14-15
+
+      ________________________________________________________________________
+
+      PEC1Q14A           Read any books during the last 12 months
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/17-18
+
+      ________________________________________________________________________
+
+      PEC2Q1A            Attended a live music, theater, or dance performance the last 12 months
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/20-21
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 3Survey Data File
+
+
+      PEC2Q1B            Attended a live book reading or a poetry or storytelling event the last 12 months
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/23-24
+
+      ________________________________________________________________________
+
+      PEMAQ1G            In the last 12 months used a device to watch or listen to programs or information about music, dance, or theater
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/26-27
+
+      ________________________________________________________________________
+
+      PEMAQ1H            In the last 12 months used a device to watch or listen to programs or information about the visual arts
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/29-30
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 4Survey Data File
+
+
+      PEMAQ1I            In the last 12 months used a device to watch or listen to programs or information about books or writers
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/32-33
+
+      ________________________________________________________________________
+
+      PEMBQ1A            Last 12 months, worked with pottery, ceramics, or jewelry
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/35-36
+
+      ________________________________________________________________________
+
+      PEMBQ1B            Last 12 months, did any leatherwork, metalwork, or woodwork
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/38-39
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 5Survey Data File
+
+
+      PEMBQ1C            Last 12 months, did any weaving, crocheting, quilting, needlepoint, knitting, or sewing
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/41-42
+
+      ________________________________________________________________________
+
+      PEMBQ1D            Last 12 months, sang, either by yourself, in a social gathering, or in a group or choir
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/44-45
+
+      ________________________________________________________________________
+
+      PEMBQ2D            Last 12 months, performed or practiced singing for other people
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/47-48
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 6Survey Data File
+
+
+      PEMBQ1E            Last 12 months, played a musical instrument
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/50-51
+
+      ________________________________________________________________________
+
+      PEMBQ2E            Last 12 months, played a musical instrument with one or more partners, a band, orchestra, or other music group
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/53-54
+
+      ________________________________________________________________________
+
+      PEMBQ1F            Last 12 months, did any acting
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/56-57
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 7Survey Data File
+
+
+      PEMBQ1G            Last 12 months, danced socially, including dancing at weddings, clubs, or other social settings
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/59-60
+
+      ________________________________________________________________________
+
+      PEMBQ1H            Last 12 months, performed or practiced any dance, such as for an audience or as a form of artistic expression
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/62-63
+
+      ________________________________________________________________________
+
+      PEMBQ1I            Last 12 months, created any films or videos as an artistic activity
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/65-66
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 8Survey Data File
+
+
+      PEMBQ1J            Last 12 months, taken any photographs as an artistic activity
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/68-69
+
+      ________________________________________________________________________
+
+      PEMBQ1K            Last 12 months, created any other visual art, such as paintings, sculpture, graphic designs, or digital art
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/71-72
+
+      ________________________________________________________________________
+
+      PEMBQ1L            Last 12 months, wrote creatively, such as fiction, non-fiction, poetry, or plays
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/74-75
+
+
+
+
+
+
+
+
+                                  October 6, 2025
+
+
+
+      Survey of Public Participation in the Arts (SPPA), United States, Page 9Survey Data File
+
+
+      PEMBQ1M            Last 12 months, designed, coded, or created any games, software, or tools for computers, mobile devices, or other platforms for artistic purposes
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/77-78
+
+      ________________________________________________________________________
+
+      PEMBQ1N            Last 12 months, created any performance or work of visual art using a computer or mobile device
+
+           VALUE  LABEL
+              -9  No answer
+              -3  Refused
+              -2  Don't know
+              -1  Not in universe
+               1  Yes
+               2  No
+
+           Data type: numeric
+           Missing-data codes: *--1
+           Record/columns: 1/80-81
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  October 6, 2025
